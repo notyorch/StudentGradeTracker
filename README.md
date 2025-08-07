@@ -27,4 +27,4 @@ This project is a **Student Grade Tracking System** developed in C as part of th
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/student-grade-tracking-system.git
+   git clone https://github.com/notyorch/StudentGradeTracker.git
